@@ -1,0 +1,15 @@
+E Redfield 2
+E Valentine 3
+E Horde 51
+S
+P
+E Wesker 1 V
+R
+E Chambers 6
+B
+E Valentine 3
+E Nolan 7
+E Louis 4 V
+E Remi 8 V
+p
+s
